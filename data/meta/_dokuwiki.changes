@@ -1,0 +1,9 @@
+1594965335	43.250.156.173	C	start	admin	created		3
+1594965535	43.250.156.173	E	start	admin			40
+1594965968	43.250.156.173	C	aws	admin	created		80
+1594966025	43.250.156.173	E	aws	admin			58
+1594966274	43.250.156.173	E	aws	admin			47
+1594966304	43.250.156.173	E	aws	admin			32
+1594966367	43.250.156.173	E	aws	admin	[Automation Scripts] 		-2
+1594966383	43.250.156.173	E	aws	admin	[AWS Userdata Scripts] 		2
+1594966907	43.250.156.173	E	aws	admin			0
